@@ -1,4 +1,4 @@
-# shop-redgroup
+# mini-shop
 Learning project with React and Redux.
 
 ![Alt text](screenshots/shop.png?raw=true "Optional Title")
