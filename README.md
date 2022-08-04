@@ -1,4 +1,4 @@
-# graphql-appollo-app-ulbi
+# shop-redgroup
 Learning project with React and Redux.
 
 ![Alt text](screenshots/shop.png?raw=true "Optional Title")
